@@ -31,3 +31,8 @@ header{
     height: 250px;
     float: right;
 }
+.video {
+    width:560px; 
+    height:315px;
+    border: none;
+}
